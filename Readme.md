@@ -54,3 +54,17 @@ Once these steps are completed, the Django project should be accessible at
 `http://127.0.0.1:8000/`
 
 in your web browser.
+
+## Pages Example
+
+### All Users
+
+![Alt text](home.png "Home")
+
+### Login Page -> Redirect /dashboard
+
+![Alt text](login.png "Login")
+
+#### Only Login Users
+
+![Alt text](dashboard.png "Dashboard")
